@@ -31,6 +31,8 @@ To execute the notebook, you need Python 3 and the following libraries:
 
 You can install these libraries using the following command:
 
-`pip install requirements.txt`
+```shell
+pip install requirements.txt
+```
 
 requirements.txt is the txt file containing the names of the necessary libraries
